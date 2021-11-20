@@ -1,6 +1,10 @@
 # gta3
 GTA 3 User Generated Content by Warren Woodhouse for personal use only. For use with Grand Theft Auto 3 on the PC. More cool stuff at https://www.warrenwoodhouse.fandom.com/
 
+# RELEASES
+* (Newcastle upon Tyne UK's Nexus Metro Texture Pack)[https://github.com/warrenwoodhouse/gta3/releases/tag/newcastleupontyneuknexusmetrotexturepack]
+* (Skins)[https://github.com/warrenwoodhouse/gta3/releases/tag/skins]
+
 # LICENSE AGREEMENT
 You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
 
